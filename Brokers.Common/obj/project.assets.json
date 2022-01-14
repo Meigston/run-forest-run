@@ -237,11 +237,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repositorios\\Meigston\\TestQueueRabbtiMq\\Brokers.Common\\Brokers.Common.csproj",
+      "projectUniqueName": "C:\\Repositorios\\Meigston\\run-forest-run\\Brokers.Common\\Brokers.Common.csproj",
       "projectName": "Brokers.Common",
-      "projectPath": "C:\\Repositorios\\Meigston\\TestQueueRabbtiMq\\Brokers.Common\\Brokers.Common.csproj",
+      "projectPath": "C:\\Repositorios\\Meigston\\run-forest-run\\Brokers.Common\\Brokers.Common.csproj",
       "packagesPath": "C:\\Users\\Meigston\\.nuget\\packages\\",
-      "outputPath": "C:\\Repositorios\\Meigston\\TestQueueRabbtiMq\\Brokers.Common\\obj\\",
+      "outputPath": "C:\\Repositorios\\Meigston\\run-forest-run\\Brokers.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+CXn8jbpW1hXlZFt54QiCjeCnhy1akpaXAUQxSetkuDKXqWQR8wJbIVgYpn7a2c4ihXBfGSzvv3zoF6n8w5/4A==",
+  "dgSpecHash": "CDvMTF6bF/8TBOmolo+K5fdXBaDvrIZIeE0nTloYpxHdAio1UZN7YTjFp8gB5mdsIzHLvK2hxYYYGG3479ZyJg==",
   "success": true,
-  "projectFilePath": "C:\\Repositorios\\Meigston\\TestQueueRabbtiMq\\Brokers.RabbitMq\\Brokers.RabbitMq.csproj",
+  "projectFilePath": "C:\\Repositorios\\Meigston\\run-forest-run\\Brokers.RabbitMq\\Brokers.RabbitMq.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Meigston\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Meigston\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
