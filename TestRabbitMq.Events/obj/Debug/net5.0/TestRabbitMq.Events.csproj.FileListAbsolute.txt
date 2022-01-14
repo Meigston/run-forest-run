@@ -1,0 +1,15 @@
+C:\Repositorios\Meigston\TestQueueRabbtiMq\TestEventsRannitMq\bin\Debug\net5.0\TestRabbitMq.Events.deps.json
+C:\Repositorios\Meigston\TestQueueRabbtiMq\TestEventsRannitMq\bin\Debug\net5.0\TestRabbitMq.Events.dll
+C:\Repositorios\Meigston\TestQueueRabbtiMq\TestEventsRannitMq\bin\Debug\net5.0\ref\TestRabbitMq.Events.dll
+C:\Repositorios\Meigston\TestQueueRabbtiMq\TestEventsRannitMq\bin\Debug\net5.0\TestRabbitMq.Events.pdb
+C:\Repositorios\Meigston\TestQueueRabbtiMq\TestEventsRannitMq\bin\Debug\net5.0\Brokers.Common.dll
+C:\Repositorios\Meigston\TestQueueRabbtiMq\TestEventsRannitMq\bin\Debug\net5.0\Brokers.Common.pdb
+C:\Repositorios\Meigston\TestQueueRabbtiMq\TestEventsRannitMq\obj\Debug\net5.0\TestRabbitMq.Events.csproj.AssemblyReference.cache
+C:\Repositorios\Meigston\TestQueueRabbtiMq\TestEventsRannitMq\obj\Debug\net5.0\TestRabbitMq.Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\Meigston\TestQueueRabbtiMq\TestEventsRannitMq\obj\Debug\net5.0\TestRabbitMq.Events.AssemblyInfoInputs.cache
+C:\Repositorios\Meigston\TestQueueRabbtiMq\TestEventsRannitMq\obj\Debug\net5.0\TestRabbitMq.Events.AssemblyInfo.cs
+C:\Repositorios\Meigston\TestQueueRabbtiMq\TestEventsRannitMq\obj\Debug\net5.0\TestRabbitMq.Events.csproj.CoreCompileInputs.cache
+C:\Repositorios\Meigston\TestQueueRabbtiMq\TestEventsRannitMq\obj\Debug\net5.0\TestRabbitMq.Events.csproj.CopyComplete
+C:\Repositorios\Meigston\TestQueueRabbtiMq\TestEventsRannitMq\obj\Debug\net5.0\TestRabbitMq.Events.dll
+C:\Repositorios\Meigston\TestQueueRabbtiMq\TestEventsRannitMq\obj\Debug\net5.0\ref\TestRabbitMq.Events.dll
+C:\Repositorios\Meigston\TestQueueRabbtiMq\TestEventsRannitMq\obj\Debug\net5.0\TestRabbitMq.Events.pdb

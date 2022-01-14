@@ -1,0 +1,16 @@
+C:\Repositorios\Meigston\TestQueueRabbtiMq\TestQueueRabbtiMq\bin\Debug\net5.0\TestQueueRabbtiMq.exe
+C:\Repositorios\Meigston\TestQueueRabbtiMq\TestQueueRabbtiMq\bin\Debug\net5.0\TestQueueRabbtiMq.deps.json
+C:\Repositorios\Meigston\TestQueueRabbtiMq\TestQueueRabbtiMq\bin\Debug\net5.0\TestQueueRabbtiMq.runtimeconfig.json
+C:\Repositorios\Meigston\TestQueueRabbtiMq\TestQueueRabbtiMq\bin\Debug\net5.0\TestQueueRabbtiMq.runtimeconfig.dev.json
+C:\Repositorios\Meigston\TestQueueRabbtiMq\TestQueueRabbtiMq\bin\Debug\net5.0\TestQueueRabbtiMq.dll
+C:\Repositorios\Meigston\TestQueueRabbtiMq\TestQueueRabbtiMq\bin\Debug\net5.0\ref\TestQueueRabbtiMq.dll
+C:\Repositorios\Meigston\TestQueueRabbtiMq\TestQueueRabbtiMq\bin\Debug\net5.0\TestQueueRabbtiMq.pdb
+C:\Repositorios\Meigston\TestQueueRabbtiMq\TestQueueRabbtiMq\obj\Debug\net5.0\TestQueueRabbtiMq.csproj.AssemblyReference.cache
+C:\Repositorios\Meigston\TestQueueRabbtiMq\TestQueueRabbtiMq\obj\Debug\net5.0\TestQueueRabbtiMq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\Meigston\TestQueueRabbtiMq\TestQueueRabbtiMq\obj\Debug\net5.0\TestQueueRabbtiMq.AssemblyInfoInputs.cache
+C:\Repositorios\Meigston\TestQueueRabbtiMq\TestQueueRabbtiMq\obj\Debug\net5.0\TestQueueRabbtiMq.AssemblyInfo.cs
+C:\Repositorios\Meigston\TestQueueRabbtiMq\TestQueueRabbtiMq\obj\Debug\net5.0\TestQueueRabbtiMq.csproj.CoreCompileInputs.cache
+C:\Repositorios\Meigston\TestQueueRabbtiMq\TestQueueRabbtiMq\obj\Debug\net5.0\TestQueueRabbtiMq.dll
+C:\Repositorios\Meigston\TestQueueRabbtiMq\TestQueueRabbtiMq\obj\Debug\net5.0\ref\TestQueueRabbtiMq.dll
+C:\Repositorios\Meigston\TestQueueRabbtiMq\TestQueueRabbtiMq\obj\Debug\net5.0\TestQueueRabbtiMq.pdb
+C:\Repositorios\Meigston\TestQueueRabbtiMq\TestQueueRabbtiMq\obj\Debug\net5.0\TestQueueRabbtiMq.genruntimeconfig.cache

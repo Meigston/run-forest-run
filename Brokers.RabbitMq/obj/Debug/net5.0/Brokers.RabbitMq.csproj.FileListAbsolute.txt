@@ -1,0 +1,15 @@
+C:\Repositorios\Meigston\TestQueueRabbtiMq\Brokers.RabbitMq\obj\Debug\net5.0\Brokers.RabbitMq.csproj.AssemblyReference.cache
+C:\Repositorios\Meigston\TestQueueRabbtiMq\Brokers.RabbitMq\obj\Debug\net5.0\Brokers.RabbitMq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\Meigston\TestQueueRabbtiMq\Brokers.RabbitMq\obj\Debug\net5.0\Brokers.RabbitMq.AssemblyInfoInputs.cache
+C:\Repositorios\Meigston\TestQueueRabbtiMq\Brokers.RabbitMq\obj\Debug\net5.0\Brokers.RabbitMq.AssemblyInfo.cs
+C:\Repositorios\Meigston\TestQueueRabbtiMq\Brokers.RabbitMq\obj\Debug\net5.0\Brokers.RabbitMq.csproj.CoreCompileInputs.cache
+C:\Repositorios\Meigston\TestQueueRabbtiMq\Brokers.RabbitMq\bin\Debug\net5.0\Brokers.RabbitMq.deps.json
+C:\Repositorios\Meigston\TestQueueRabbtiMq\Brokers.RabbitMq\bin\Debug\net5.0\Brokers.RabbitMq.dll
+C:\Repositorios\Meigston\TestQueueRabbtiMq\Brokers.RabbitMq\bin\Debug\net5.0\ref\Brokers.RabbitMq.dll
+C:\Repositorios\Meigston\TestQueueRabbtiMq\Brokers.RabbitMq\bin\Debug\net5.0\Brokers.RabbitMq.pdb
+C:\Repositorios\Meigston\TestQueueRabbtiMq\Brokers.RabbitMq\bin\Debug\net5.0\Brokers.Common.dll
+C:\Repositorios\Meigston\TestQueueRabbtiMq\Brokers.RabbitMq\bin\Debug\net5.0\Brokers.Common.pdb
+C:\Repositorios\Meigston\TestQueueRabbtiMq\Brokers.RabbitMq\obj\Debug\net5.0\Brokers.RabbitMq.csproj.CopyComplete
+C:\Repositorios\Meigston\TestQueueRabbtiMq\Brokers.RabbitMq\obj\Debug\net5.0\Brokers.RabbitMq.dll
+C:\Repositorios\Meigston\TestQueueRabbtiMq\Brokers.RabbitMq\obj\Debug\net5.0\ref\Brokers.RabbitMq.dll
+C:\Repositorios\Meigston\TestQueueRabbtiMq\Brokers.RabbitMq\obj\Debug\net5.0\Brokers.RabbitMq.pdb

@@ -1,0 +1,11 @@
+C:\Repositorios\Meigston\TestQueueRabbtiMq\Brokers.Common\bin\Debug\net5.0\Brokers.Common.deps.json
+C:\Repositorios\Meigston\TestQueueRabbtiMq\Brokers.Common\bin\Debug\net5.0\Brokers.Common.dll
+C:\Repositorios\Meigston\TestQueueRabbtiMq\Brokers.Common\bin\Debug\net5.0\ref\Brokers.Common.dll
+C:\Repositorios\Meigston\TestQueueRabbtiMq\Brokers.Common\bin\Debug\net5.0\Brokers.Common.pdb
+C:\Repositorios\Meigston\TestQueueRabbtiMq\Brokers.Common\obj\Debug\net5.0\Brokers.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\Meigston\TestQueueRabbtiMq\Brokers.Common\obj\Debug\net5.0\Brokers.Common.AssemblyInfoInputs.cache
+C:\Repositorios\Meigston\TestQueueRabbtiMq\Brokers.Common\obj\Debug\net5.0\Brokers.Common.AssemblyInfo.cs
+C:\Repositorios\Meigston\TestQueueRabbtiMq\Brokers.Common\obj\Debug\net5.0\Brokers.Common.csproj.CoreCompileInputs.cache
+C:\Repositorios\Meigston\TestQueueRabbtiMq\Brokers.Common\obj\Debug\net5.0\Brokers.Common.dll
+C:\Repositorios\Meigston\TestQueueRabbtiMq\Brokers.Common\obj\Debug\net5.0\ref\Brokers.Common.dll
+C:\Repositorios\Meigston\TestQueueRabbtiMq\Brokers.Common\obj\Debug\net5.0\Brokers.Common.pdb
