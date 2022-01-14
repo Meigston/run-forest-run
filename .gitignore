@@ -3,3 +3,12 @@
 ################################################################################
 
 /.vs/TestQueueRabbtiMq
+/TestRabbtiMq.Publishers.Api/obj
+/TestRabbtiMq.Publishers.Api/bin
+/TestRabbitMq.Events/bin
+/TestRabbitMq.Events/obj
+/TestRabbitMq.Events/obj
+/TestRabbitMq.Consumers/obj
+/TestRabbitMq.Consumers/bin
+/Brokers.RabbitMq/obj
+/Brokers.RabbitMq/bin
