@@ -1,6 +1,7 @@
-﻿namespace TestRabbitMq.Events
+﻿namespace RunForestRun.RabbitMq.Events.Example
 {
     using System;
+
     using Brokers.Common;
 
     public class WeatherForecastEvent : BaseEvent

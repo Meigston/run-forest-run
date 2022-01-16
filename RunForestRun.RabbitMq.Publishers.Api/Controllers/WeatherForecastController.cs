@@ -1,11 +1,14 @@
-﻿namespace TestRabbitMq.Publishers.Api.Controllers
+﻿namespace RunForestRun.RabbitMq.Publishers.Api.Controllers
 {
-    using Brokers.Common.Interfaces;
-    using Microsoft.AspNetCore.Mvc;
-    using Microsoft.Extensions.Logging;
     using System;
     using System.Linq;
-    using TestRabbitMq.Events;
+
+    using Brokers.Common.Interfaces;
+
+    using Microsoft.AspNetCore.Mvc;
+    using Microsoft.Extensions.Logging;
+
+    using RunForestRun.RabbitMq.Events.Example;
 
     [ApiController]
     [Route("[controller]")]
@@ -21,7 +24,7 @@
 
         public WeatherForecastController(ILogger<WeatherForecastController> logger, IEventPublisher eventPublisher)
         {
-            _logger = logger;
+            this._logger = logger;
             this.eventPublisher = eventPublisher;
         }
 
@@ -46,7 +49,7 @@
                });
            });
 
-            return Ok();
+            return this.Ok();
         }
     }
 }

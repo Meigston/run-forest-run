@@ -1,10 +1,13 @@
-﻿namespace TestRabbitMq.Consumers
+﻿namespace RunForestRun.RabbitMq.Consumers.Example
 {
     using System;
     using System.Threading.Tasks;
+
     using Brokers.Common;
+
     using Newtonsoft.Json;
-    using TestRabbitMq.Events;
+
+    using RunForestRun.RabbitMq.Events.Example;
 
     public class WeatherForecastConsumer : BaseMessageConsumer<WeatherForecastEvent>
     {

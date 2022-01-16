@@ -1,10 +1,10 @@
-﻿using TestRabbitMq.Events;
-
-namespace TestRabbitMq.Consumers
+﻿namespace RunForestRun.RabbitMq.Consumers.Example
 {
     using System.Threading.Tasks;
 
     using Brokers.Common;
+
+    using RunForestRun.RabbitMq.Events.Example;
 
     public class Test2Consumer : BaseMessageConsumer<Test2Event>
     {

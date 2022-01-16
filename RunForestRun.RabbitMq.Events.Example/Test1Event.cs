@@ -1,4 +1,4 @@
-﻿namespace TestRabbitMq.Events
+﻿namespace RunForestRun.RabbitMq.Events.Example
 {
     using Brokers.Common;
 

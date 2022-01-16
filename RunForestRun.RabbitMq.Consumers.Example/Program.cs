@@ -1,4 +1,4 @@
-﻿namespace TestRabbitMq.Consumers
+﻿namespace RunForestRun.RabbitMq.Consumers.Example
 {
     using System;
 

@@ -1,12 +1,13 @@
-﻿using Brokers.Common;
-using TestRabbitMq.Events;
-
-namespace TestRabbitMq.Consumers
+﻿namespace RunForestRun.RabbitMq.Consumers.Example
 {
+    using Brokers.Common;
     using Brokers.RabbitMq;
+
     using Microsoft.Extensions.Configuration;
     using Microsoft.Extensions.DependencyInjection;
     using Microsoft.Extensions.Hosting;
+
+    using RunForestRun.RabbitMq.Events.Example;
 
     public static class Startup
     {
