@@ -12,3 +12,10 @@
 /TestRabbitMq.Consumers/bin
 /Brokers.RabbitMq/obj
 /Brokers.RabbitMq/bin
+/RunForestRun.RabbitMq.Consumers.Example/obj
+/RunForestRun.RabbitMq.Consumers.Example/bin
+/RunForestRun.RabbitMq.Publishers.Api/obj
+/RunForestRun.RabbitMq.Publishers.Api/bin
+/RunForestRun.RabbitMq.Events.Example/bin
+/RunForestRun.RabbitMq.Events.Example/obj
+/RunForestRun.RabbitMq.Publishers.Api/obj
