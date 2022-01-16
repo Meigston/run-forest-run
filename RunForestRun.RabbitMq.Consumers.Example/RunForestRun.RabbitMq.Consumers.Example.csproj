@@ -30,7 +30,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Brokers.Common\Brokers.Common.csproj" />
     <ProjectReference Include="..\Brokers.RabbitMq\Brokers.RabbitMq.csproj" />
-    <ProjectReference Include="..\TestRabbitMq.Events\TestRabbitMq.Events.csproj" />
+    <ProjectReference Include="..\RunForestRun.RabbitMq.Events.Example\RunForestRun.RabbitMq.Events.Example.csproj" />
   </ItemGroup>
 
 </Project>
