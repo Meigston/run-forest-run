@@ -20,3 +20,5 @@
 /RunForestRun.RabbitMq.Events.Example/obj
 /RunForestRun.RabbitMq.Publishers.Api/obj
 /RunForestRun.RabbitMq.Publishers.Api/RunForestRun.RabbitMq.Publishers.Api.csproj.user
+/Brokers.Common/bin/Debug/net5.0
+/Brokers.Common/obj
